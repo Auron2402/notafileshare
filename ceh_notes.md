@@ -106,6 +106,10 @@ Recon:
  - SQL MAP bei webpages
      -     Sqlmap -u "URL" --cokie="PHPSESSID=ASDF" {--dbs / -D "DBNAME" - T "TABLENAME" --dump / --os-shell}
 
+### Android
+- Port tcp/5555 Open
+- Phonesploit
+
 ### Cracking:
 
  - Hash Cracking
